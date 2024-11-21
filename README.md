@@ -69,7 +69,7 @@ The project is organized as follows:
 ```
 
 ## Screenshots
-!(Screenshot 2024-11-22 000233.png)
-![Prediction Page Screenshot](C:/Users/Yashwanth V/Desktop/456.png)
+![Screen shot](123.png)
+![Prediction Page Screenshot](456.png)
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it.
