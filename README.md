@@ -70,6 +70,6 @@ The project is organized as follows:
 
 ## Screenshots
 ![Screen shot](https://github.com/Yashwanthv-28/img/blob/bd448f1dac52af99d2cc3634ce4a8313ec64cbb3/123.png)
-![Prediction Page Screenshot](456.png)
+![Prediction Page Screenshot](https://github.com/Yashwanthv-28/img/blob/bd448f1dac52af99d2cc3634ce4a8313ec64cbb3/456.png)
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it.
