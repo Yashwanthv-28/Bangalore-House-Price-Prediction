@@ -69,7 +69,7 @@ The project is organized as follows:
 ```
 
 ## Screenshots
-![Screen shot](123.png)
-![Prediction Page Screenshot](456.png)
+![Screen shot](img/123.png)
+![Prediction Page Screenshot](img/456.png)
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it.
