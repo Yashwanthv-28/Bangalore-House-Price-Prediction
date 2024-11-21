@@ -69,6 +69,7 @@ The project is organized as follows:
 ```
 
 ## Screenshots
-
+!(Screenshot 2024-11-22 000233.png)
+!(Screenshot 2024-11-22 000329.png)
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it.
