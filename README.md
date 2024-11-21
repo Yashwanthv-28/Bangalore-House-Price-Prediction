@@ -15,10 +15,6 @@ The analysis and model creation can be found in the .ipynb file.
 
 The main packages used are numpy, pandas, matplotlib, seaborn and sklearn.  
 
-## Deployemnt :
-The web app has been build using basic HTML, CSS, Javascript, Flask and Herkou.
-
-Link: https://bangalore-house-pricing.herokuapp.com/
 
 ## Future Scope :
 * Use multiple Algorithms
