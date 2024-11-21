@@ -22,9 +22,13 @@ Models used: Random Forest, XGBoost
 Data: Bangalore housing dataset
 
 ## Setup Instructions
-# 1. Clone the Repository
+### **1. Clone the Repository**
+To clone the repository and navigate to the project directory, run the following commands:
+
+```bash
 git clone https://github.com/YashwanthV28/bangalore-house-price-prediction.git
 cd bangalore-house-price-prediction
+
 # 2. Set Up the Environment
 Install Python dependencies:
 pip install -r requirements.txt
